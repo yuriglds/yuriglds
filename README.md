@@ -33,17 +33,27 @@ class Skills extends Developer {
   
   <a href="https://www.instagram.com/yuriglds/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flatsquare&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/yuriglds/"/></a>
+ 
   
-  <h6>Game contact</h6>
-  <a href="https://steamcommunity.com/id/Yuriglds/" alt="Steam">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav" alt="Xbox">
- <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
 </p>  
 
 <h3>Tools</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+ 
+  <h6>Learing</h6>
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  
+  <h6>Skills</h6>
+  
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Boostrap](https://img.shields.io/badge/-Boostrap-333333?style=flat&logo=boostrap)
 
 ## ⭐ Info
 
