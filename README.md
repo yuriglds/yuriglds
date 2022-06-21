@@ -1,4 +1,15 @@
-### Hi, i'm Yuri Gabriel! 👋
+### Hi. i'm:
+<img src="https://img.shields.io/static/v1?label=Overview&message=Yuri Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+<p>
+
+studying/working at **#TeuFuturo**<br/>
+
+I'm a developer **Fullstack**.
+
+
+</p>
+<hr>
 
 
 ```js
@@ -21,17 +32,24 @@ class Skills extends Developer {
   
   <a href="https://www.instagram.com/yuriglds/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flatsquare&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/yuriglds/"/></a>
+  
+  <h6>Game contact</h6>
+  <a href="https://steamcommunity.com/id/Yuriglds/" alt="Steam">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav" alt="Xbox">
+ <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
 </p>  
 
 <h3>Tools</h3>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 ## ⭐ Info
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriglds&theme=dark&hide_langs_below=1" />
 </a>
 
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuriglds&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
