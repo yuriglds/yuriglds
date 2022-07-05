@@ -1,4 +1,7 @@
-### Hi. i'm:
+<p align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=CDE1FF&center=true&vCenter=true&lines=Full-Stack+Developer"(https://git.io/typing-svg>
+ </p>
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=Yuri Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
